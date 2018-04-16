@@ -1,0 +1,29 @@
+#addToDoForm {
+  font-size: 1.5em;
+  color: #E08283;
+  text-align: center;
+}
+
+#newToDoText {
+  font-size: 1.5em;
+  color: #E08283;
+  text-align: left;
+}
+
+#toDoList {
+  font-size: 1.5em;
+  color: #E08283;
+  text-align: center;
+  list-style-type: none;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  color:#E08283;
+  text-align: center;
+}
+
+button {
+  color: #E26A6A;
+}
